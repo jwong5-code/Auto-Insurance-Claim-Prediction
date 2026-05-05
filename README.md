@@ -1,4 +1,5 @@
 # Auto-Insurance-Claim-Prediction
+**EE559 Course Project — University of Southern California, Spring 2026**
 
 ## Overview
 This project applies supervised and unsupervised machine learning to predict 
@@ -9,7 +10,7 @@ segments within the policyholder population.
 
 ## Repository Structure
 ```
-EE559Project/
+Auto-Insurance-Claim-Prediction/
 ├── EE559Project.ipynb       # Main notebook
 ├── customer-data.csv        # Dataset
 ├── README.md                
@@ -61,15 +62,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```bash
 git clone https://github.com/jwong5-code/Auto-Insurance-Claim-Prediction
 ```
-2. Install dependencies
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-3. Open and run the notebook top to bottom
+2. Open and run the notebook top to bottom
 ```bash
 jupyter notebook EE559Project.ipynb
 ```
-The dataset (`customer-data.csv`) is included in the repository — no additional downloads required.
+The dataset (`customer-data.csv`) is included — no additional downloads required.
 
 ## Academic Integrity
 All modeling and analysis code is original. Standard libraries (scikit-learn, pandas, matplotlib, seaborn) were used throughout.
