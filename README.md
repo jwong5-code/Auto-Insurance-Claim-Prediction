@@ -1,4 +1,4 @@
-# EE559Project
+# Auto-Insurance-Claim-Prediction
 
 ## Overview
 This project applies supervised and unsupervised machine learning to predict 
@@ -59,7 +59,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/EE559Project
+git clone https://github.com/jwong5-code/Auto-Insurance-Claim-Prediction
 ```
 2. Install dependencies
 ```bash
