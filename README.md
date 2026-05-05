@@ -8,10 +8,13 @@ tuned, and evaluated. K-Means clustering is applied to discover natural risk
 segments within the policyholder population.
 
 ## Repository Structure
-├── EE559Project.ipynb    # Main notebook
-├── customer-data.csv     # Dataset
-├── README.md             
-└── EE559_Project_Report.pdf # Full Report            
+```
+EE559Project/
+├── EE559Project.ipynb       # Main notebook
+├── customer-data.csv        # Dataset
+├── README.md                
+└── EE559_Project_Report.pdf # Final report
+``` 
 
 ## Pipeline
 1. Exploratory Data Analysis (EDA)
